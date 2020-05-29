@@ -1,0 +1,2 @@
+@Open.Copy = SetString 3
+@Open.ActiveProject = SetString 1
